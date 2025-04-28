@@ -4,7 +4,7 @@
         <div class="flex justify-between h-16">
             <div class="flex">
                 <!-- Logo -->
-                <div class="flex justify-center my-8">
+                <div class="flex justify-center">
                     <a href="{{ route('dashboard') }}">
                         <div class="bg-white rounded-full shadow-lg">
                             <img src="{{ asset('images/logo.jpg') }}" alt="To-Do Logo" class="w-16 h-16 object-contain" />
